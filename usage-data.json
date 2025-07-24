@@ -1,0 +1,20 @@
+[
+  {
+    "vehicle_id": "TX001",
+    "mileage": 14350,
+    "last_check": "2025-07-10",
+    "status": "Active"
+  },
+  {
+    "vehicle_id": "TX002",
+    "mileage": 19890,
+    "last_check": "2025-07-11",
+    "status": "Maintenance Due"
+  },
+  {
+    "vehicle_id": "TX003",
+    "mileage": 7500,
+    "last_check": "2025-07-09",
+    "status": "Active"
+  }
+]
